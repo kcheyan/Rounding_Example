@@ -14,5 +14,5 @@ public class NearestInt
 
         // Print the result of rounding (number + 2.3) to the nearest int.
         System.out.println((int) ((number + 2.3) + 0.5));
-
     }
+}
